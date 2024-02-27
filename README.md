@@ -1,5 +1,5 @@
 # Telephone-Number-Validator
-A project to practice Javascript.
+A project to practice Javascript and learn REGEX.
 
 
 <img height="360em" src="https://github.com/GiovaniDamian/Spreadsheet/assets/60575219/3b5ffe71-23c8-41e0-84f9-0efef30db95e"/></br>
